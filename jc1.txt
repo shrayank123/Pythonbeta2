@@ -1,0 +1,28 @@
+
+Good Morning Mr Sammy!
+Present: 3
+Absent: 18
+Here are the people who are present today!
+	Charlotte
+	Nadia
+	Ola
+
+Here are the people who are absent today!
+	Kanike
+	Darren
+	Jinseo
+	Woocheol
+	Billy
+	Daylen
+	Noval
+	Rama
+	YK
+	Dennis
+	Fatih
+	Anan
+	Kyusha
+	Giselle O
+	Giselle F
+	Jennifer
+	Tarra
+	Hana
